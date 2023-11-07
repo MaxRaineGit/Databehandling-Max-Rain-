@@ -11,6 +11,7 @@ seaborn = "*"
 ipykernel = "*"
 nbformat = "*"
 python-dotenv = "*"
+openpyxl = "*"
 
 [dev-packages]
 
