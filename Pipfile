@@ -12,6 +12,7 @@ ipykernel = "*"
 nbformat = "*"
 python-dotenv = "*"
 openpyxl = "*"
+helpers = "*"
 
 [dev-packages]
 
