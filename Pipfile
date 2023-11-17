@@ -13,6 +13,7 @@ nbformat = "*"
 python-dotenv = "*"
 openpyxl = "*"
 helpers = "*"
+kaleido = "*"
 
 [dev-packages]
 
